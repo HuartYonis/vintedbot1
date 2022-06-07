@@ -1,0 +1,23 @@
+{
+    "token": "OTgzMTE4MjUyNTYzNjM2MjY0.G6520N.-BC6VEHiF9rL6GskOnhBdcikW6HUisp_-T2yH0",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/983139831133638706/A5Ye0eASDPw-WEe2Ve8nWZYrwpApfZenN_VwbDKba9Pa22qTqluHGF0jqKOmRYzwCScE": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=79&brand_id[]=53&brand_id[]=14&brand_id[]=88&brand_id[]=94&brand_id[]=304&price_from=0&currency=EUR&price_to=25&order=newest_first",
+            "salon": "sweats-pulls"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
